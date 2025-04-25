@@ -1,10 +1,4 @@
-# 👋 Hi, I’m Karma Dice.
-### Chosen and approved name by my favorite people.
-
----
-Legally named as _Keval Domadia_.
-
-Call me with the name you are confortable with!
+# 👋 Hi!
 
 ---
 ### You can connect with me on karmicdice at yahoo dot com

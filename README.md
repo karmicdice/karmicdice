@@ -16,3 +16,20 @@
 - 💯 SQLAlchemy has nothing to do with chemistry.
 - 💯 MongoDb is over-engineering for a Login function.
 - 💯 What goes to `/dev/null`, stays with `/dev/null`.
+- 💯 REST is not just "GET and POST with JSON".
+- 💯 GraphQL doesn't mean you need to learn graph theory.
+- 💯 Redis is not a cache with commitment issues.
+- 💯 Docker containers are not VMs on a diet.
+- 💯 Kubernetes is not Docker Compose's final form.
+- 💯 Microservices are not nanoservices in denial.
+- 💯 Agile is not "no documentation and daily standups".
+- 💯 sudo rm -rf / is not a debugging technique.
+- 💯 "Works on my machine" is not a deployment strategy.
+- 💯 Regex is a write-only language.
+- 💯 Git blame is not for workplace conflict resolution.
+- 💯 Node modules weigh more than a black hole.
+- 💯 CSS is not "change stuff and see".
+- 💯 The cloud is just someone else's computer.
+- 💯 Co-Pilot is not pair programming.
+- 💯 Coffee to code ratio is a valid metric. Undeniable.
+- 💯 Legacy code is tomorrow's new feature, today.

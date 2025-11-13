@@ -7,6 +7,10 @@
 - 👀 I’m a Full Stack Engineer
 - 🌱 I love teaching difficult and complex subjects in simpler terms.
 - 💞️ Understand the atom, and you will understand the universe.
+- 🧩 Complexity is easy; simplicity is hard.
+- 🌊 Code is never done, it's only released.
+- ⚡ Performance optimization without measurement is just guessing with confidence.
+- 💡 Reality becomes negotiable with the right user experience.
 
 ## Profound notions:
 - 💯 PHP is _not_ dead.
